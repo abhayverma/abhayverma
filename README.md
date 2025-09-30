@@ -10,9 +10,21 @@
 
 <!-- Badges for contact / skills -->
 <p align="center">
-  <a href="mailto:social.abhay@gmail.com"><img src="https://img.shields.io/badge/Email-social.abhay@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/abhayverma"><img src="https://img.shields.io/badge/Github-Profile-Follow-000?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/abhayverma"><img src="https://img.shields.io/badge/LinkedIn-Abhay%20Verma-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/abhayverma">
+    <img src="https://img.shields.io/badge/GitHub-Profile-000?logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+  <a href="https://github.com/abhayverma">
+    <img src="https://img.shields.io/github/followers/abhayverma?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://www.linkedin.com/in/abhayverma">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Verma-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:social.abhay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-social.abhay@gmail.com-red?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://abhayverma.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-008080?logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---

@@ -48,8 +48,8 @@ AWS (Lambda, SQS, SNS, RDS, S3) · Docker · CI/CD · Logging / Monitoring
 
 ### 📫 Let’s Connect  
 - Email: social.abhay@gmail.com  
-- LinkedIn: [Your LinkedIn URL]  
-- Portfolio / Blog: [Your site]  
+- LinkedIn: [https://www.linkedin.com/in/socialabhay/]  
+- Portfolio / Blog: [https://abhayverma.com/]  
 - If you’d like to collaborate, build something cool, or talk AI & blockchain — feel free to ping me!
 
 ---

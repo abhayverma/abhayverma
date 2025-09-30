@@ -22,7 +22,7 @@
   <a href="mailto:social.abhay@gmail.com">
     <img src="https://img.shields.io/badge/Email-social.abhay@gmail.com-red?logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://abhayverma.github.io">
+  <a href="https://abhayverma.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-008080?logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>

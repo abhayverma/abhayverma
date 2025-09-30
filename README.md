@@ -1,57 +1,70 @@
-# Abhay Verma  
-**Full Stack Developer | AI & Blockchain Enthusiast**
-
-_Bangalore · social.abhay@gmail.com_  
-[GitHub](https://github.com/abhayverma) · [Website / Portfolio]()
-
----
-
-### 🚀 What I Build / Focus On  
-- Agentic AI systems (interview agents, conversational automations)  
-- LLM-based tools, Retrieval-Augmented Generation (RAG), prompt engineering  
-- Identity & face-recognition systems, AI vs human answer detection  
-- Blockchain solutions: immutable proofs, smart contracts, Web3 integrations  
-- End-to-end web apps & APIs (Python, Node.js, AWS)  
+<!-- Header / Hero -->
+<h1 align="center">Hi, I'm Abhay Verma 👋</h1>
+<p align="center">
+  Full Stack Developer | AI / LLMs / Blockchain Enthusiast  
+  <br>
+  Building intelligent agents, secure identity systems & immutable proofs 🛠️
+</p>
 
 ---
 
-### 🔧 Featured Projects
+<!-- Badges for contact / skills -->
+<p align="center">
+  <a href="mailto:social.abhay@gmail.com"><img src="https://img.shields.io/badge/Email-social.abhay@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/abhayverma"><img src="https://img.shields.io/badge/Github-Profile-Follow-000?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/abhayverma"><img src="https://img.shields.io/badge/LinkedIn-Abhay%20Verma-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-| Project | Description |
+---
+
+### 🚀 What I Do  
+- Agentic AI systems (interview bots, LLM + RAG pipelines)  
+- Face-recognition & identity verification in practical applications  
+- Blockchain & Web3: immutable proofs / smart contracts / decentralized data  
+- Building full-stack web & cloud native systems (Python, Node.js, AWS, etc.)
+
+---
+
+### 🔧 Tech Stack
+
+| Domain | Tools & Technologies |
 |---|---|
-| **AI Interview Agent** | An autonomous interviewer with face verification + anti-AI detection |
-| **Blockchain Verifiable Results** | Smart contract + IPFS architecture for verifiable transcripts |
-| **Full-stack Portfolio** | Web apps & services demonstrating backend, API, cloud skills |
-
-_(Check the Projects tab or repos below for code & demos.)_
-
----
-
-### 🛠️ Skills & Tech Stack
-
-**AI / ML / LLMs**  
-Python · Transformers · LangChain / LlamaIndex · Vector DBs · Embeddings · Detection Models  
-
-**Backend / APIs**  
-Python (Flask, FastAPI) · Node.js / Express · Microservices · PostgreSQL / MySQL  
-
-**Frontend / UI**  
-Vue3 · React · HTML · CSS · Figma · UX  
-
-**Blockchain / Web3**  
-Solidity · Hardhat · Ethers.js / Web3.js · IPFS / Filecoin · NFTs · Smart contracts  
-
-**Cloud / DevOps**  
-AWS (Lambda, SQS, SNS, RDS, S3) · Docker · CI/CD · Logging / Monitoring  
+| **Backend / APIs** | Python (Flask, FastAPI), Node.js, GraphQL, PostgreSQL, MySQL |
+| **AI / LLM / ML** | HuggingFace, LangChain, Embeddings, FaceNet / DeepFace, Detection Models |
+| **Blockchain / Web3** | Solidity, Hardhat, Ethers.js, IPFS |
+| **Cloud / DevOps** | AWS (Lambda, S3, EC2, SQS), Docker, CI/CD, Monitoring & Logging |
 
 ---
 
-### 📫 Let’s Connect  
-- Email: social.abhay@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/socialabhay/]  
-- Portfolio / Blog: [https://abhayverma.com/]  
-- If you’d like to collaborate, build something cool, or talk AI & blockchain — feel free to ping me!
+### 🌟 Featured Projects
+
+- **AI Interview Agent** – Autonomous interviewer with face verification + anti-AI detection, highlighting both technical & practical experience.  
+- **Blockchain-Verifiable Transcripts** – A system that stores hashes of transcripts & results on blockchain for authenticity.  
+- **Portfolio Web Apps** – Showcasing full-stack systems, deployments, APIs, etc.
+
+[🔗 Explore Projects →](https://github.com/abhayverma?tab=repositories)
 
 ---
 
-*(This profile README is the first thing people see — it should reflect your direction and identity. Keep it updated as you build new projects.)*
+### 📊 GitHub Stats & Widgets
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayverma&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayverma&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+### 🎯 Let’s Connect
+
+If you want to chat AI, blockchain, or build something together — I'd love to connect!
+
+- 📫 Email: social.abhay@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/socialabhay/]  
+- 🌐 Website / Portfolio: [https://abhayverma.com/]  
+
+---
+
+<sub>Profile last updated: <!-- fill manually or use Actions to auto-update --> 2025-10-01</sub>
